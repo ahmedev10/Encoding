@@ -1,0 +1,9 @@
+Q:\webadvanced\t2b\t2b\bin\Debug\t2b.exe.config
+Q:\webadvanced\t2b\t2b\bin\Debug\t2b.exe
+Q:\webadvanced\t2b\t2b\bin\Debug\t2b.pdb
+Q:\webadvanced\t2b\t2b\obj\Debug\t2b.csprojResolveAssemblyReference.cache
+Q:\webadvanced\t2b\t2b\obj\Debug\t2b.Form1.resources
+Q:\webadvanced\t2b\t2b\obj\Debug\t2b.Properties.Resources.resources
+Q:\webadvanced\t2b\t2b\obj\Debug\t2b.csproj.GenerateResource.Cache
+Q:\webadvanced\t2b\t2b\obj\Debug\t2b.exe
+Q:\webadvanced\t2b\t2b\obj\Debug\t2b.pdb
